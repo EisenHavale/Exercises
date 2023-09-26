@@ -10,10 +10,15 @@ public class SolutionImplementations
     
     public static void main(String[] args)
     {
-        for (int i = 1; i < 100; i++)
+        Integer[] x = {1,2,3,4};
+        Integer y = 12;
+
+        change(x);
+        System.out.println("From Main"+ x);
+        /*for (int i = 1; i < 100; i++)
         {
             System.out.println(fizzBuzz(i));
-        }
+        }*/
     }
     
     private static String fizzBuzz(int index)
@@ -30,6 +35,10 @@ public class SolutionImplementations
     {
         return (index % factor == 0) ? message : "";
         
+    }
+
+    private static void change(Integer[] array){
+        System.out.println("From change" + array);
     }
     
     
