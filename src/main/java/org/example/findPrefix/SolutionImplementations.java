@@ -40,7 +40,7 @@ strings ( 1 Function)
 
  */
 
-public class SolutionImplementaiontions
+public class SolutionImplementations
 {
     private static final String[] FIRST_INPUT = {"dog","racecar","car"};
     private static final String[] SECOND_INPUT = {"dog","racecar","car"};
