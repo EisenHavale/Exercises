@@ -43,5 +43,5 @@ public class SolutionImplementation
         return numbers[index];
     }
     
-    private static
+    //private static
 }
