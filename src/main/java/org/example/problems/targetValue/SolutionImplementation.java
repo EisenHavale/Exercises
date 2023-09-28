@@ -1,8 +1,6 @@
-package org.example.targetValue;
+package org.example.problems.targetValue;
 
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.List;
 
 /*
  *Given an array of integers, return indices of the two number such that they
