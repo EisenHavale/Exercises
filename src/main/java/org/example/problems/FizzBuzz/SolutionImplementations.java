@@ -1,4 +1,4 @@
-package org.example.FizzBuzz;
+package org.example.problems.FizzBuzz;
 
 public class SolutionImplementations
 {

@@ -1,4 +1,4 @@
-package org.example.capitalizeInitials;
+package org.example.problems.capitalizeInitials;
 
 import java.util.List;
 import java.util.stream.Collectors;

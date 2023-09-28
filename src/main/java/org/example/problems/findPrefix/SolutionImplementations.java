@@ -1,4 +1,4 @@
-package org.example.findPrefix;
+package org.example.problems.findPrefix;
 /*
 
 Write a function to find the longest common prefix string amongst an array of strings.
